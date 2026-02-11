@@ -1,4 +1,13 @@
-## Foundry
+## Ethernaut Challenges
+
+This repository contains Ethernaut Challenges solved using Foundry
+
+### Levels
+
+| Level | 
+| ------------- |
+| [0. HelloEthernaut](src/Level0/) |
+| [1. Fallback](src/Fallback) |
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
 

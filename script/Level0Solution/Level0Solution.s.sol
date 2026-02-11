@@ -2,7 +2,7 @@
 
 pragma solidity ^0.8.0;
 
-import {Level0} from "../src/Level0.sol";
+import {Level0} from "src/Level0/Level0.sol";
 import {Script} from "lib/forge-std/src/Script.sol";
 import {console} from "lib/forge-std/src/console.sol";
 
